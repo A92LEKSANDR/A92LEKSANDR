@@ -6,7 +6,7 @@
 ### `Стек технологий`
 - **Языки и библиотеки:** C++, STL, Qt, Julia(basic) 
 - **Операционные системы:** Windows, Linux
-- **Инструменты разработки:** Visual Studio/Code, Vim, Git, GitLab, MinGW, GCC, CMake, Bash
+- **Инструменты разработки:** GCC, GDB, Valgrind, MinGW, СMake, Jenkins, Visual Studio, VSCode, Vim, Bash
 - **Базы данных:** MS SQL, PostgreSQL
 
 ### `Контакты`
