@@ -7,10 +7,10 @@
 - **Языки и библиотеки:** C++, STL, Qt, Julia(basic) 
 - **Операционные системы:** Windows, Linux
 - **Инструменты разработки:** GCC, GDB, Valgrind, MinGW, СMake, Jenkins, Visual Studio, VSCode, Vim, Bash
-- **Базы данных:** MS SQL, PostgreSQL
+- **Базы данных:** SQLite
 
 ### `Контакты`
 - [Telegram] https://t.me/kaacpp
-- [Email] k92.a@ya.ru
+- [Email] k92aco@gmail.com
 
 ---
