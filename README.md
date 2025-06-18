@@ -1,6 +1,8 @@
 ### 👋 Привет! Я Александр, C++/Qt разработчик
-[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram)](https://t.me/kaacpp)
+![github_photo](av_img.jpg)
+
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:k92.a@ya.ru)
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram)](https://t.me/kaacpp)
 
 ### 🚀 Обо мне
 **C++/Qt разработчик** с 2+ годами коммерческого опыта. Создаю надежные кроссплатформенные решения.
