@@ -1,4 +1,4 @@
-### 👋 Привет! Я Александр, C++/Qt разработчик
+### 👋 Привет! Я Александр)
 <div align="left">
   <img src="av_img.jpg" width="300" style="border-radius: 10px; border: 3px solid #1793D1; box-shadow: 0 4px 12px rgba(23, 147, 209, 0.2)">
 </div>
